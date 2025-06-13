@@ -1,0 +1,47 @@
+Sample output of 150 words
+
+from small training set:
+1
+or at all dark hall, not even get rather sleepy and the fall never do, and she turned a low oh, and round, or at it, which way to come to her was not going to,' s first, and that if i think--' s about the hall,
+i' thought was a book of way to her feet,` and when alice was nothing so she could, or the fall right in wonderland alice after it would not marked` and of the shelves as, i wonder what was not going to ask: this bottle on the fall was very well. suddenly, not going to get out of the bottle on it. alice after it would not a bottle on, or longitude i wonder what she thought alice,
+2
+antipathies, for the well to get out of way to get out again. dinah was very soon began to one of the words` and alice began to her was all the key, it, with a sort of this bottle
+ was nothing so very much from a low either the- the door, and even if i fell very soon began again. suddenly down she was very little golden key, and had got to her mind that a l
+ittle door, and of the little use of the- but i shall have to think me,' she was no, down, and she took a watch out of them what was no, and those how she was very nice little door, if you see, as you drink much to the corner, but she found herself
+
+From large training set:
+3
+very poor alice, finding it would go back to alice' s a very glad i must be offended tone.` i suppose dinah' she was no wise little faster?'` but if you like a curious! i can; but
+ the unfortunate gardeners instantly jumped up to be like that there was a watch, and shut.' said the sea, and were all in a pleased tone of the next witness!' d nearly forgotten
+that a low voice, perhaps not the way down!' s more,' said alice replied rather curious, old, and went on at her head, but none of their heads off together. let' the pebbles were the mouse:` you'` certainly: but thought the eaglet. now i don' m not noticed
+
+4
+true. the time when suddenly:` come and near the same year for a capital of way of the tale!' the wood. so,' said alice gave a little anxiously about.' said the large, and look up
+ in the shelves as look up this here, though, who will the way into her hands at first,` and waited.'` do so she had found that person!` i won?' said the first.` oh dear!' said th
+e march, he went back in the time it put on in a minute or heard the rabbit whispered to be no use in which was to the garden, or they are waiting outside, and then turned angrily, with an arm out the duchess:` any advantage,` that
+
+
+Large training set + python library markov chain sample output 10 sentences
+
+The Hatter opened his eyes.
+--the fire-irons came first; then followed a shower of little cartwheels, and the three gardeners at
+the key was too small, but at any rate a book written about me, that there ought!
+gained courage as she could not remember
+and when she got back to the table, half hoping
+eyes, but it was as steady as ever;
+That your eye was as much as she
+He moved on as he fumbled over the fire, stirring a large piece out of the table, but it was talking in a great deal too far off to other parts of the other birds tittered audibly.
+with one of the way wherever she
+graceful zigzag, and was just beginning to get hold of it; and while she was now only ten inches high, and she jumped up on tiptoe, and peeped over the jury-box with
+
+small training set + python library markov chain
+Would the fall was over.
+lessons in the world she was ever to get out of it, and fortunately was just in time to see it pop
+`I must be getting somewhere near the centre of the country is, you know.
+but when the Rabbit say to
+Alice was not a bit hurt, and she jumped up on to her that she was ever to get out again.
+had happened lately, that Alice had learnt several things of this sort in her
+opportunity for showing off her knowledge, as there was nothing else to do, so Alice soon
+There are no mice in the lock, and to
+In another moment down went Alice like the wind, and was just in time to see it pop
+None
